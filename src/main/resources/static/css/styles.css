@@ -8,11 +8,14 @@ h1 {
     text-align:center;
     font-size: 30px;
 }
-h3 {
-    color:whitesmoke;
-    text-align:center;
-    font-size: 15px;
-}
+/*ul {*/
+    /*background: #3399ff;*/
+    /*padding: 20px;*/
+/*}*/
+/*ul li {*/
+    /*background: #cce5ff;*/
+    /*margin: 5px;*/
+/*}*/
 nav {
     color:whitesmoke;
     text-align:center;
@@ -24,12 +27,13 @@ nav li{
 p {
     font-family: verdana;
     font-size: 15px;
-    color:lawngreen;
+    color:white;
+    padding:30px;
 }
-img{
-    height: 300px;
-    width: 300px;
-}
+/*img{*/
+    /*height: 300px;*/
+    /*width: 300px;*/
+/*}*/
 a {
     color:papayawhip;
     font-size: 25px;
