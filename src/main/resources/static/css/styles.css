@@ -8,6 +8,10 @@ h1 {
     text-align:center;
     font-size: 30px;
 }
+
+h3{
+    color: whitesmoke;
+}
 /*ul {*/
     /*background: #3399ff;*/
     /*padding: 20px;*/
@@ -30,11 +34,18 @@ p {
     color:white;
     padding:30px;
 }
-/*img{*/
-    /*height: 300px;*/
-    /*width: 300px;*/
-/*}*/
+img{
+    width: 400px;
+}
 a {
     color:papayawhip;
     font-size: 25px;
 }
+
+#moreblogs{
+    padding: 30px;
+}
+
+/*#oopimg{*/
+    /*text-align: center;*/
+/*}*/

@@ -38,4 +38,8 @@ public class HomeController {
     public String bootcampPage(){
         return "bootcamp";
     }
+    @RequestMapping("/pdesign")
+    public String pDesign(){
+        return "pdesign";
+    }
 }
