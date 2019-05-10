@@ -10,9 +10,9 @@ h1 {
 }
 h3 {
     color:whitesmoke;
-    text-align:center;
     font-size: 15px;
 }
+
 nav {
     color:whitesmoke;
     text-align:center;
@@ -21,10 +21,19 @@ nav li{
     list-style-type: none;
 }
 
+footer{
+    padding: 4px;
+}
+
+footer ul li{
+    list-style-type: none;
+
+}
+
 p {
     font-family: verdana;
     font-size: 15px;
-    color:lawngreen;
+    color:whitesmoke;
 }
 img{
     height: 300px;
@@ -33,4 +42,8 @@ img{
 a {
     color:papayawhip;
     font-size: 25px;
+}
+
+#moreblogs{
+    padding: 30px;
 }
