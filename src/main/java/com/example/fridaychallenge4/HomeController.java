@@ -10,6 +10,10 @@ public class HomeController {
     public String homePage(){
         return "index";
     }
+    @RequestMapping("/about")
+    public String aboutPage(){
+        return "about";
+    }
     @RequestMapping("/git")
     public String gitPage(){
         return "git";
