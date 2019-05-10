@@ -49,3 +49,19 @@ a {
 /*#oopimg{*/
     /*text-align: center;*/
 /*}*/
+
+#main-content{
+    padding-top: 30px;
+}
+
+.blog-card{
+    margin: 10px;
+}
+
+.blog-card div {
+    background-color: whitesmoke;
+}
+
+.blog-card p{
+    color: black;
+}
