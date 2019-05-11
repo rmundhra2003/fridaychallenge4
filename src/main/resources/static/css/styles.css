@@ -11,22 +11,31 @@ h1 {
 
 h3{
     color: whitesmoke;
+    text-align:center;
 }
-/*ul {*/
+ul {
+    color: whitesmoke;
+    text-align:center;
     /*background: #3399ff;*/
     /*padding: 20px;*/
-/*}*/
-/*ul li {*/
-    /*background: #cce5ff;*/
-    /*margin: 5px;*/
-/*}*/
+}
+ul li {
+    color: navajowhite;
+    text-align:center;
+    background: darkolivegreen;
+    margin: 8px;
+    font-size: x-large;
+    list-style: none;
+}
 nav {
     color:whitesmoke;
     text-align:center;
 }
 nav li{
     list-style-type: none;
+    color:navajowhite;
 }
+
 
 p {
     font-family: verdana;
