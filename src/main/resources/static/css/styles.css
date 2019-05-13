@@ -23,6 +23,7 @@ h3{
 nav {
     color:whitesmoke;
     text-align:center;
+    margin-bottom: 20px;
 }
 nav li{
     list-style-type: none;
@@ -37,13 +38,22 @@ p {
 img{
     width: 400px;
 }
+
 a {
     color:papayawhip;
     font-size: 25px;
 }
 
+span{
+    margin-top: 15px;
+}
+
 #moreblogs{
     padding: 30px;
+}
+
+#moreblogs div{
+    color: whitesmoke;
 }
 
 /*#oopimg{*/
@@ -54,14 +64,37 @@ a {
     padding-top: 30px;
 }
 
+#github-img{
+    padding-top: 90px;
+}
+
+.container{
+    margin-bottom: 35px;
+}
+
+.icon-img{
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+}
+
+.whitesmoke-font{
+    color: whitesmoke;
+}
+
 .blog-card{
     margin: 10px;
+    color: whitesmoke;
 }
 
-.blog-card div {
-    background-color: whitesmoke;
-}
+/*.blog-card div {*/
+/*    background-color: whitesmoke;*/
+/*}*/
 
 .blog-card p{
-    color: black;
+    color: whitesmoke;
+}
+
+.author_date{
+    color: whitesmoke;
 }
