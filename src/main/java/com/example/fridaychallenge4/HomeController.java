@@ -42,4 +42,8 @@ public class HomeController {
     public String pDesign(){
         return "pdesign";
     }
+    @RequestMapping("/websites")
+    public String websites(){
+        return "websites";
+    }
 }
