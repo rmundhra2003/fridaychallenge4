@@ -46,4 +46,12 @@ public class HomeController {
     public String websites(){
         return "websites";
     }
+    @RequestMapping("/gitcollaboration")
+    public String gitCollaboration(){
+        return "gitcollaboration";
+    }
+    @RequestMapping("/algorithms")
+    public String algorithms(){
+        return "algorithms";
+    }
 }
